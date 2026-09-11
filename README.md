@@ -31,7 +31,7 @@
 
 ## About
 
-Developer from Nepal building fast, practical web tools. Focused on Astro, React, and TypeScript — sites that solve real problems, load fast, and work well on mobile. Creator of [NepDate](https://nepdate.xyz).
+Developer from Nepal building fast, practical web tools. Sites that solve real problems, load fast, and work well on mobile. Creator of [NepDate](https://nepdate.xyz).
 
 ---
 
@@ -40,7 +40,6 @@ Developer from Nepal building fast, practical web tools. Focused on Astro, React
 **Frontend** `Astro` `React` `TypeScript` `Tailwind CSS` `JavaScript`
 **Backend** `Node.js`
 **Deploy** `Cloudflare Workers`
-**Practices** `PWA` `SEO` `i18n`
 
 ---
 
@@ -56,17 +55,13 @@ Developer from Nepal building fast, practical web tools. Focused on Astro, React
 
 Free Nepali date converter (BS &#8596; AD) with today's date, age calculator, and EN/NE versions.
 
-`Astro` `React` `Tailwind` `TypeScript` `Cloudflare Workers`
+`React` `Tailwind` `TypeScript`
 
 [Live](https://nepdate.xyz) &#183; [Age Calculator](https://nepdate.xyz/age-calculator)
 
 ### CivilTools
 
 Civil engineering calculators and unit converters. In development — public link coming soon.
-
-`Astro`
-
-*Private repo — docs and demo being prepared.*
 
 ---
 
@@ -76,7 +71,7 @@ Civil engineering calculators and unit converters. In development — public lin
 
 ## Learning
 
-`Astro Islands` &#183; `SEO / Core Web Vitals` &#183; `Structured Data`
+`SEO` &#183; `Core Web Vitals` &#183; `Structured Data`
 
 ---
 
