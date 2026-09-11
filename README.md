@@ -82,12 +82,9 @@ for civil engineering work with a clean, mobile-friendly interface.
 
 ## 🌐 Connect
 
-<a href="https://github.com/sachinsapkotadev">GitHub</a> ·
-<a href="https://www.linkedin.com/in/sachinsapkota-dev/">LinkedIn</a> ·
-<a href="https://www.youtube.com/@SachinDev2">YouTube</a> ·
-<a href="https://x.com/Sachinsapkotaa">X</a> ·
-<a href="https://www.instagram.com/its8_619">Instagram</a> ·
-<a href="https://whatsapp.com/channel/0029VbCopKIGpLHO0AQoln2p">WhatsApp</a>
+| 🐙 GitHub | 💼 LinkedIn | 🎵 TikTok | 📺 YouTube | 🐦 X | 📸 Instagram | 💬 WhatsApp |
+|---|---|---|---|---|---|---|
+| [@sachinsapkotadev](https://github.com/sachinsapkotadev) | [sachinsapkota-dev](https://www.linkedin.com/in/sachinsapkota-dev/) | [@its8_619](https://www.tiktok.com/@its8_619) | [@SachinDev2](https://www.youtube.com/@SachinDev2) | [@Sachinsapkotaa](https://x.com/Sachinsapkotaa) | [@its8_619](https://www.instagram.com/its8_619) | [Channel](https://whatsapp.com/channel/0029VbCopKIGpLHO0AQoln2p) |
 
 <br><br>
 
