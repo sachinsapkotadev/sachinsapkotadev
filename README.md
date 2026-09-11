@@ -37,7 +37,7 @@ Developer from Nepal building fast, practical web tools. Sites that solve real p
 
 ## Tech Stack
 
-**Frontend** `Astro` `React` `TypeScript` `Tailwind CSS` `JavaScript`
+**Frontend** `Astro` `TypeScript` `Tailwind CSS` `JavaScript`
 **Backend** `Node.js`
 **Deploy** `Cloudflare Workers`
 
@@ -45,7 +45,7 @@ Developer from Nepal building fast, practical web tools. Sites that solve real p
 
 ## Skills
 
-`Website Developer` `Minecraft Server Developer` `Discord Bot Developer` `Minecraft Bot Developer` `Web Tools` `UI/UX`
+`Website Developer` `Minecraft Server Developer` `Discord Bot Developer` `Minecraft Bot Developer` `C++` `C#` `UI/UX`
 
 ---
 
