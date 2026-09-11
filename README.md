@@ -44,6 +44,12 @@ Developer from Nepal building fast, practical web tools. Focused on Astro, React
 
 ---
 
+## Skills
+
+`Website Developer` `Minecraft Server Developer` `Discord Bot Developer` `Minecraft Bot Developer` `Web Tools` `UI/UX`
+
+---
+
 ## Featured Projects
 
 ### NepDate
@@ -76,7 +82,12 @@ Civil engineering calculators and unit converters. In development — public lin
 
 ## Connect
 
-[GitHub](https://github.com/sachinsapkotadev) &#183; [nepdate.xyz](https://nepdate.xyz)
+<a href="https://github.com/sachinsapkotadev"><img src="https://img.shields.io/badge/GitHub-sachinsapkotadev-181717?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/sachinsapkota-dev/"><img src="https://img.shields.io/badge/LinkedIn-sachinsapkota--dev-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@SachinDev2"><img src="https://img.shields.io/badge/YouTube-SachinDev2-FF0000?style=flat-square&logo=youtube" alt="YouTube"></a>
+<a href="https://x.com/Sachinsapkotaa"><img src="https://img.shields.io/badge/X-Sachinsapkotaa-181717?style=flat-square&logo=x" alt="X"></a>
+<a href="https://www.instagram.com/its8_619"><img src="https://img.shields.io/badge/Instagram-its8__619-E4405F?style=flat-square&logo=instagram" alt="Instagram"></a>
+<a href="https://whatsapp.com/channel/0029VbCopKIGpLHO0AQoln2p"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 
 ---
 
