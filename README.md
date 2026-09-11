@@ -35,17 +35,11 @@ I prefer building useful products over building things just for show.
 
 ## What I Build
 
-| Web | Automation |
-|---|---|
-| Websites & web applications | Discord & Minecraft bots |
-| Responsive interfaces | Community & server tools |
-| Calculators & utilities | AI-assisted workflows |
-
-| Minecraft | Software |
-|---|---|
-| Server development | C++ / C# applications |
-| Minecraft tooling | Developer utilities |
-| Server automation | Practical desktop tools |
+| Web | Automation | Minecraft | Software |
+|---|---|---|---|
+| Websites & apps | Discord & MC bots | Server development | C++ / C# apps |
+| Responsive UIs | Community tools | Minecraft tooling | Developer utilities |
+| Calculators | AI-assisted workflows | Server automation | Desktop tools |
 
 ---
 
